@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["open_compaction_region"],"struct":["CompactionRegion","CompactorRequest","DefaultCompactor","MergeOutput"],"trait":["Compactor"]};

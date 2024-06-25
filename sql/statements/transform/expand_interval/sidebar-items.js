@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_interval_with_expanded_name","expand_interval_name","single_quoted_string_expr"],"struct":["ExpandIntervalTransformRule","INTERVAL_SHORT_NAME_MAPPING","INTERVAL_SHORT_NAME_PATTERN"]};

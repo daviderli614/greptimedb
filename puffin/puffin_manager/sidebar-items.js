@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["cache_manager","cached_puffin_manager"],"struct":["PutOptions"],"trait":["PuffinManager","PuffinReader","PuffinWriter"]};
