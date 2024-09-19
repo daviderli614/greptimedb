@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["geohash","h3"],"struct":["GeoFunctions"]};
